@@ -32,4 +32,4 @@ jobs:
         run: npm install
 
       - name: Check linting and formatting
-        run: npm run lint
+        run: npm lint
